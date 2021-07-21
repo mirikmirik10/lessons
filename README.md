@@ -46,7 +46,8 @@ Git repository setup
          git push
 
 
-FAQ
+FAQ      piton
+
 ----
 
 If you crated keys for GitHub and still on push git asks for login/password,
